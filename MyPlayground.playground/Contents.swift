@@ -8,7 +8,7 @@ print("\(stringName)")
 
 var num = str.count
 
-if str.count < 10
+if str.count < 100
 {
     print("count is \(num)")
 }
